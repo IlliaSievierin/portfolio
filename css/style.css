@@ -1,0 +1,93 @@
+html,body{
+	height: 100%;
+	background: url(white-waves.png);
+}
+.row{
+ display: table;
+ height: 100%;
+}
+.col.s12.m6.l3.light-blue.darken-2{
+display:table-cell;
+height: 100%;
+}
+.collapsible{
+	border: none;
+	outline: none;
+	box-shadow: none;
+	display: block;
+}
+.fa.fa-id-card{
+	font-size: 36px;
+}
+.col.s12.m6.l9{
+	display:table-cell;
+	height: 100%;
+}
+.responsive-img.z-depth-4{
+	height: 350px;
+	width: 270px;
+	margin-top: 30px;
+	background: #ffffff; 
+    border: 3px solid #fff;
+    border-radius: 50px;
+}
+.white-text{
+	font-size: 22px;
+	margin-left: 10px;
+}
+a:hover{
+	font-weight: bold;
+}
+.info{
+	margin-left: 50px;
+}
+.general-info{
+	margin-top: 100px;
+}
+.text-info{
+	font-size: 18pt;
+}
+.block-info{
+	margin-top: 75px;
+}
+.collapsible-header{
+	background-color:rgba(255, 255, 255, 0.3);
+}
+.collapsible-header:hover{
+	background-color:rgba(255, 255, 255, 0.7);
+}
+.block-name{
+	font-size: 24pt;
+	font-weight: bold;
+	color: #1565c0;
+	opacity: 1;
+}
+.footnote{
+	color: gray;
+}
+.fa.fa-university{
+	font-size: 36px;
+}
+.fa.fa-rocket{
+	font-size: 36px;
+}
+.fa.fa-genderless{
+	color:#1565c0;
+	margin-left: 50px;
+}
+
+#position{
+	font-size: 16pt;
+}
+
+h2{
+	font-weight: bold;
+}
+
+h3{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+
